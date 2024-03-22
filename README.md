@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuanaKunzler
 - 👀 I’m interested in Full stack web development
-- 🌱 I’m currently learning Java and angularJS
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me luanakdelima@gmail.com
 
